@@ -1,5 +1,5 @@
-### Hi there 👋, I am Riyad Ahamed
-#### full stack web development
+# Hi there 👋, I am Riyad Ahamed
+### full stack web development
 ![full stack web development](https://wallpapercave.com/wp/wp8903890.jpg)
 
 I am an Enthusiastic Junior MERN Stack Developer with a passion for crafting responsive and dynamic web applications. Proficient in MongoDB, Express.js, React, and Node.js, eager to contribute to collaborative projects. Lifelong learner, dedicated to honing skills and staying current with industry trends. Ready to embark on a coding journey!
