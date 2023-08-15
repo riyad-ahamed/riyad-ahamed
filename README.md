@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I am Riyad Ahamed
+#### full stack web development
+![full stack web development](https://wallpapercave.com/wp/wp8903890.jpg)
 
-<!--
-**riyad-ahamed/riyad-ahamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Enthusiastic Junior MERN Stack Developer with a passion for crafting responsive and dynamic web applications. Proficient in MongoDB, Express.js, React, and Node.js, eager to contribute to collaborative projects. Lifelong learner, dedicated to honing skills and staying current with industry trends. Ready to embark on a coding journey!
 
-Here are some ideas to get you started:
+Skills: Node.js/MongoDB / REACT /Express.js/ JS / HTML / CSS/Bootstrap/Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a e-commerce website  
+- 🌱 I’m currently learning JAVA 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/riyad-ahamed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100083678498797)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/riyad.ahamed_1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/RSeobuddha21644)  
+
